@@ -20,5 +20,17 @@ run this command:
 import sys
 !{sys.executable} -m pip install -r requirements.txt
 ```
+<br>
 
+Step 2: <br>
+Download the mini dataset: <br>
+run this code:
+```
+data = tf.keras.utils.get_file( 
+  'mini_speech_commands.zip', 
+  origin="http://storage.googleapis.com/download.tensorflow.org/data/mini_speech_commands.zip", 
+  extract=True, 
+  cache_dir='.', cache_subdir='data')
+os.listdir('./data/')  
+```
 
