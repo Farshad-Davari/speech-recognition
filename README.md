@@ -3,7 +3,7 @@
 <h2 align="center">Project Details: A complete speech recognition in python and tensorflow</h2>  
 <hr>
 
-Prerequisite:
+Prerequisites:
 ```
 1-Install vscode
 2-Install python
@@ -11,3 +11,5 @@ Prerequisite:
 4-Install jupyter notebook extension on vscode
 ```
 <hr>
+
+
