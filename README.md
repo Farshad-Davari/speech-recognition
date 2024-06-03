@@ -12,4 +12,10 @@ Prerequisites:
 ```
 <hr>
 
+Follow these steps:
+```
+1-Install packages with `!{sys.executable} -m pip install -r requirements.txt` command.
+2-Downlaod the mini dataset for this project. 
+```
+
 
