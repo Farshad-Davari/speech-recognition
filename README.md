@@ -33,4 +33,8 @@ data = tf.keras.utils.get_file(
   cache_dir='.', cache_subdir='data')
 os.listdir('./data/')  
 ```
+<br>
+
+<h4>Important: </h4>
+> Due to the large size of the dataset, it was not possible to upload it to GitHub.
 
