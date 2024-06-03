@@ -12,9 +12,9 @@ Prerequisites:
 ```
 <hr>
 
-Step 1:
-Install these packages:
-Tensorflow, numpy, seaborn, Ipython, matplotlib, sklearn
+Step 1: <br>
+Install these packages: <br>
+Tensorflow, numpy, seaborn, Ipython, matplotlib, sklearn <br>
 run this command:
 ```
 import sys
