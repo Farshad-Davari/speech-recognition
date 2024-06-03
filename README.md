@@ -12,10 +12,13 @@ Prerequisites:
 ```
 <hr>
 
-Follow these steps:
+Step 1:
+Install these packages:
+Tensorflow, numpy, seaborn, Ipython, matplotlib, sklearn
+run this command:
 ```
-1-Install packages with `!{sys.executable} -m pip install -r requirements.txt` command.
-2-Downlaod the mini dataset for this project. 
+import sys
+!{sys.executable} -m pip install -r requirements.txt
 ```
 
 
